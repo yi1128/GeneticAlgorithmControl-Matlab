@@ -1,4 +1,5 @@
 ## General info
+**Auto-tuning of classical PID controllers using an advanced genetic algorithm** <br>
 This is an implementation of [this](https://ieeexplore.ieee.org/abstract/document/254429) scientific paper, published in 1992. The implementation is part of an initiative 
 of the chair of control engineering at the university of Augsburg, to bring machine learning closer to the students.
 
